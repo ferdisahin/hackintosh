@@ -15,5 +15,4 @@
 * Ethernet
 * All USB Ports ( Tüm Portlar Çalışıyor)
 
-## Info
 ![Info](https://raw.githubusercontent.com/ferdisahin/hackintosh/main/info.png)
